@@ -1,0 +1,341 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2013-09-12T00:08:02Z",
+    "timestamp_areas_base": "2013-09-11T15:36:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "area",
+  "id": 3601650769,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-CO",
+    "name": "Colonia",
+    "place": "state",
+    "population": "123203",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Colonia"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601635189,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-SJ",
+    "name": "San José",
+    "place": "state",
+    "population": "108309",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de San José"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601645684,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-FS",
+    "name": "Flores",
+    "place": "state",
+    "population": "25050",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Flores"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601635117,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-MA",
+    "name": "Maldonado",
+    "place": "state",
+    "population": "164300",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Maldonado"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601635124,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-LA",
+    "name": "Lavalleja",
+    "place": "state",
+    "population": "58815",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Lavalleja"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601635164,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-FD",
+    "name": "Florida",
+    "name:ru": "Флорида",
+    "place": "state",
+    "population": "67048",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Florida"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601653142,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-RO",
+    "name": "Rocha",
+    "place": "state",
+    "population": "68088",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Rocha"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601625171,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-CA",
+    "name": "Canelones",
+    "name:ru": "Канелонес",
+    "place": "state",
+    "population": "520187",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Canelones"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601634207,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "description": "Departamento de Montevideo",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-MO",
+    "name": "Montevideo",
+    "name:ru": "Монтевидео",
+    "place": "state",
+    "population": "1319108",
+    "type": "boundary",
+    "wikipedia": "es:Montevideo_(departamento)"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601614733,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-SA",
+    "name": "Salto",
+    "place": "state",
+    "population": "124878",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Salto"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601617618,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-AR",
+    "name": "Artigas",
+    "place": "state",
+    "population": "73378",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Artigas"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601646018,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-DU",
+    "name": "Durazno",
+    "place": "state",
+    "population": "57088",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Durazno"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601662387,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-PA",
+    "name": "Paysandú",
+    "place": "state",
+    "population": "113124",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Paysandú"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601662476,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-RN",
+    "name": "Río Negro",
+    "place": "state",
+    "population": "54765",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Río Negro"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601646600,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-SO",
+    "name": "Soriano",
+    "place": "state",
+    "population": "82595",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Soriano"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601627812,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-RV",
+    "name": "Rivera",
+    "place": "state",
+    "population": "103493",
+    "source:population": "http://www.ine.gub.uy/censos2011/resultadosfinales/rivera.html",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Rivera"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601640982,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-TT",
+    "name": "Treinta y Tres",
+    "place": "state",
+    "population": "48134",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Treinta y Tres"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601656175,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-CL",
+    "name": "Cerro Largo",
+    "place": "state",
+    "population": "84698",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Cerro Largo"
+  }
+}
+,
+{
+  "type": "area",
+  "id": 3601662265,
+  "tags": {
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Uruguay",
+    "is_in:country_code": "UY",
+    "iso3166-2": "UY-TA",
+    "name": "Tacuarembó",
+    "place": "state",
+    "population": "90053",
+    "type": "boundary",
+    "wikipedia": "es:Departamento de Tacuarembó"
+  }
+}
+
+
+  ]
+}
